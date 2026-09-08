@@ -1,16 +1,30 @@
 ## Hi there 👋
+# Jeongyoon Heo
 
-<!--
-**HeoJeongyoon/HeoJeongyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student building AI and data products that turn ambiguous problems into testable, decision-support workflows.
 
-Here are some ideas to get you started:
+## Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Financial Bottleneck Analyzer
+Operational signals → modeled financial exposure → analyst-defined scenarios
+
+### ReleaseGuard
+Fragmented beta-test evidence → structured, traceable review decisions
+
+### Linxol
+Multimodal evidence → structured feedback → semantic evaluation
+
+## How I Build
+
+Problem
+→ Structure
+→ Working System
+→ Evaluation
+→ Decision / Business Impact
+
+## Current Interests
+
+- Applied AI
+- Workflow automation
+- Decision-support systems
+- AI evaluation and reliability
