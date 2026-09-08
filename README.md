@@ -1,4 +1,5 @@
 ## Hi there 👋
+I build practical AI and data systems with a focus on what their outputs actually justify.
 # Jeongyoon Heo
 
 Information Systems student building AI and data products that turn ambiguous problems into testable, decision-support workflows.
